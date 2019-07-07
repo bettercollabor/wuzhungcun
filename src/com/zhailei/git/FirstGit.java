@@ -9,5 +9,9 @@ public class FirstGit {
 	public static void add() {
 		System.out.println("aaaaaaaaaaaaa");
 	}
+	
+	public static void add() {
+		System.out.println("aaaaaaaaaaaaa");
+	}
 
 }
