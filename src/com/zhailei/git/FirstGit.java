@@ -10,6 +10,10 @@ public class FirstGit {
 		System.out.println("aaaaaaaaaaaaa");
 	}
 	
+	public static void multify() {
+		System.out.println("aaaaaaaaaaaaa");
+	}
+	
 	public static void add() {
 		System.out.println("aaaaaaaaaaaaa");
 	}
