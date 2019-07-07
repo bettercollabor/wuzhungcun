@@ -13,8 +13,7 @@ public class FirstGit {
 	public static void multify() {
 		System.out.println("aaaaaaaaaaaaa");
 	}
-	
-    
+	   
 	public static void addadd() {
 		System.out.println("aaaaaaaaaaaaa");
 	}
