@@ -14,6 +14,10 @@ public class FirstGit {
 		System.out.println("aaaaaaaaaaaaa");
 	}
 	
+	public static void addadd() {
+		System.out.println("aaaaaaaaaaaaa");
+	}
+	
 	public static void add() {
 		System.out.println("aaaaaaaaaaaaa");
 	}
